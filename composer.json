@@ -1,0 +1,19 @@
+{
+    "name": "demo/phpmailer",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Demo\\Phpmailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dinuka2001",
+            "email": "2022cs047@stu.ucsc.cmb.ac.lk"
+        }
+    ],
+    "require": {
+    }
+}
